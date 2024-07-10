@@ -16,4 +16,4 @@ To add your own routes, go to `routes` folder and add a new folder, for example 
 
 ### If you have any questions/improvements feel free to reach out to me via X or make a PR
 
-`X: https://x.com/ahmeddmaaty`
+X: [https://x.com/ahmeddmaaty](https://x.com/ahmeddmaaty)
